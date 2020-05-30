@@ -2,7 +2,6 @@ D:\WorkArea\XamarinSample\XamarinSample\XamarinSample\bin\Debug\netstandard2.0\X
 D:\WorkArea\XamarinSample\XamarinSample\XamarinSample\bin\Debug\netstandard2.0\XamarinSample.dll
 D:\WorkArea\XamarinSample\XamarinSample\XamarinSample\bin\Debug\netstandard2.0\ref\XamarinSample.dll
 D:\WorkArea\XamarinSample\XamarinSample\XamarinSample\bin\Debug\netstandard2.0\XamarinSample.pdb
-D:\WorkArea\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamarinSample.csprojAssemblyReference.cache
 D:\WorkArea\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\WorkArea\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 D:\WorkArea\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
